@@ -2928,6 +2928,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 04F39F0D1AEF2AFE005B926E /* StripeiOS Tests-Debug.xcconfig */;
 			buildSettings = {
+				CLANG_ENABLE_CODE_COVERAGE = NO;
 			};
 			name = Debug;
 		};
@@ -2935,6 +2936,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 04F39F0E1AEF2AFE005B926E /* StripeiOS Tests-Release.xcconfig */;
 			buildSettings = {
+				CLANG_ENABLE_CODE_COVERAGE = NO;
 			};
 			name = Release;
 		};
@@ -2942,6 +2944,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 04F39F151AEF2AFE005B926E /* StripeiOSStatic.xcconfig */;
 			buildSettings = {
+				CLANG_ENABLE_CODE_COVERAGE = NO;
 			};
 			name = Debug;
 		};
@@ -2949,6 +2952,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 04F39F151AEF2AFE005B926E /* StripeiOSStatic.xcconfig */;
 			buildSettings = {
+				CLANG_ENABLE_CODE_COVERAGE = NO;
 			};
 			name = Release;
 		};
@@ -2956,6 +2960,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 04F39F181AEF2AFE005B926E /* StripeiOSStaticFramework.xcconfig */;
 			buildSettings = {
+				CLANG_ENABLE_CODE_COVERAGE = NO;
 			};
 			name = Debug;
 		};
@@ -2963,6 +2968,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 04F39F181AEF2AFE005B926E /* StripeiOSStaticFramework.xcconfig */;
 			buildSettings = {
+				CLANG_ENABLE_CODE_COVERAGE = NO;
 			};
 			name = Release;
 		};
@@ -2970,6 +2976,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 04F39F101AEF2AFE005B926E /* StripeiOS-Debug.xcconfig */;
 			buildSettings = {
+				CLANG_ENABLE_CODE_COVERAGE = NO;
 			};
 			name = Debug;
 		};
@@ -2977,6 +2984,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 04F39F111AEF2AFE005B926E /* StripeiOS-Release.xcconfig */;
 			buildSettings = {
+				CLANG_ENABLE_CODE_COVERAGE = NO;
 			};
 			name = Release;
 		};
@@ -3000,6 +3008,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 04F94D6F1D21CB20004FC826 /* StripeiOSResources.xcconfig */;
 			buildSettings = {
+				CLANG_ENABLE_CODE_COVERAGE = NO;
 			};
 			name = Debug;
 		};
@@ -3007,6 +3016,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 04F94D6F1D21CB20004FC826 /* StripeiOSResources.xcconfig */;
 			buildSettings = {
+				CLANG_ENABLE_CODE_COVERAGE = NO;
 			};
 			name = Release;
 		};
